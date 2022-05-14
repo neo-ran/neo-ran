@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python & Web Development.
 - 👯 I’m looking to collaborate with people that have similar interests (newbies like me!).
 
-Highlights:
+**Highlights**:
 <details>
 <summary>Progress Tracker</summary>
 <br>
@@ -61,12 +61,8 @@ Platforms and sites used:
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | Computer Science | 1st of June, 2022 |
 </details>
 
-<details>
-<summary></summary>
-</details>
-
 <!-- 
-## 📫 How to reach me:
+## 
 (Banners with Coursera, edx, mail, etc.)
 
 ## Highlights:
@@ -76,6 +72,9 @@ Certificates:
 Projects:
 (batch script, etc.)
 
+<details>
+<summary></summary>
+</details>
 -->
 
 
@@ -84,6 +83,7 @@ Projects:
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
+- 📫 How to reach me:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
