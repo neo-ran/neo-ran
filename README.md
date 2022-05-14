@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python & Web Development.
 - 👯 I’m looking to collaborate with people that have similar interests (newbies like me!).
 
+Highlights:
 <details>
 <summary>Progress Tracker</summary>
 <br>
@@ -11,9 +12,9 @@
 This section documents my accomplishments and progress across selected MOOC platforms.
 
 Platforms and sites used:
-- [**Coursera**](https://github.com/neo-ran/neo-ran#coursera)
-- [**The Odin Project**](https://github.com/neo-ran/neo-ran#the-odin-project)
-- [**edX**](https://github.com/neo-ran/neoran#edx)
+- [**Coursera**](https://coursera.org/)
+- [**The Odin Project**](https://www.theodinproject.com/)
+- [**edX**](https://edx.org/)
 
 <!-- Coursera section -->
 ## Coursera
