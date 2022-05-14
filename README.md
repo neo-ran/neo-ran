@@ -23,7 +23,7 @@ Platforms and sites used:
 **Completed courses**:
 |  Course    |  Offered By | Field | Course Certificate |
 | :--------: | :---------: | :---: | :----------------: |
-| [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) [(Assignments)](https://github.com/neo-ran/coursera-learn-to-program)| `University of Toronto` | Software Development | [Link](https://coursera.org/share/928ff38615abc20adae8a8909a0112e8) |
+| [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) | `University of Toronto` | Software Development | [Link](https://coursera.org/share/928ff38615abc20adae8a8909a0112e8) |
 | [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) | `Georgia Institute of Technology` | Design and Product | [Link](https://coursera.org/share/3f22a122b1cc43354d7cdda950f157b4) |
 | [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | `Deep Teaching Solutions` | Personal Development | - |
 | [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | `University of London & Royal Holloway, University of London` | Computer Security and Networks | [Link](https://coursera.org/share/8cb45927254a1865a538eb8a8ea36c0f) |
