@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on populating my profile with projects.
 - 🌱 I’m currently learning Python & Web Development.
-- 👯 I’m looking to collaborate on people with similar interests (newbies like me!).
+- 👯 I’m looking to collaborate with people that have similar interests (newbies like me!).
 
 <!-- 
 ## How to reach me:
