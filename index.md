@@ -61,6 +61,10 @@ Platforms and sites used:
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | Computer Science | 1st of June, 2022 |
 </details>
 
+<details>
+<summary></summary>
+</details>
+
 <!-- 
 ## 📫 How to reach me:
 (Banners with Coursera, edx, mail, etc.)
