@@ -13,7 +13,6 @@ This section documents my accomplishments and progress across selected MOOC plat
 
 Platforms and sites used:
 - [**Coursera**](https://coursera.org/)
-- [**The Odin Project**](https://www.theodinproject.com/)
 - [**edX**](https://edx.org/)
 
 <!-- Coursera section -->
@@ -31,21 +30,6 @@ Platforms and sites used:
 | [A Tour of Google Cloud Hands-on Labs](https://www.coursera.org/projects/googlecloud-a-tour-of-google-cloud-hands-on-labs-5s3nf) | `Google Cloud Training` | Cloud Computing | [Link](https://coursera.org/share/47a1afc99352098e4b1704e0d7f32906) |
 | [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | `University of Michigan` | Software Development | [Link](https://coursera.org/share/cdcae0d208d7ed69ccdc6468340daf04) |
 
-<!-- The Odin Project section -->
-## The Odin Project
-**Progress**:
-| Section | Mark | Project Submission |
-| :-------------------: | :--: | :----------------: |
-| Introduction | ✅ | N/A | 
-| Installations | ✅ | N/A | 
-| Git Basics | ✅ | N/A | 
-| HTML Foundations | ✅ | [GitHub Repository](https://github.com/neo-ran/odin-recipes) | 
-| CSS Foundations | ✅ | N/A | 
-| Flexbox | - | - | 
-| JavaScript Basics | - | - | 
-| The Back End | - | - |
-| Conclusion | - | - |
-
 <!-- edX section -->
 ## edX
 > Link: [Profile](https://profile.edx.org/u/gja_ledesma)
@@ -53,12 +37,30 @@ Platforms and sites used:
 **Course(s) currently taking**:
 | Course | Offered By | Subject |
 | :----: | :--------: | :---: |
-| [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) [(Alt)](https://cs50.harvard.edu/technology/2017/) | `Harvard University` | Computer Science |
+| [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) [(alt)](https://cs50.harvard.edu/technology/2017/) | `Harvard University` | Computer Science |
 
 **Course(s) pending**:
 | Course | Offered By | Subject | Starts on: |
 | :----: | :--------: | :---: | :--------: |
 | [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | Computer Science | 1st of June, 2022 |
+</details>
+
+<details>
+<summary>The Odin Project</summary>
+<br>
+
+[**About:**](https://www.theodinproject.com/about)
+> *The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.*
+
+**Output:**
+- <u>Project: Recipes</u> (HTML Foundations)
+    - [Code repository](https://github.com/neo-ran/odin-recipes)
+    - [Live preview](https://neo-ran.github.io/odin-recipes/)
+
+- <u>Project: Landing Page</u> (Flexbox)
+    - [Code repository](https://github.com/neo-ran/landing-page)
+    - [Live preview](https://neo-ran.github.io/landing-page/)
+
 </details>
 
 <!-- 
@@ -71,12 +73,7 @@ Certificates:
 
 Projects:
 (batch script, etc.)
-
-<details>
-<summary></summary>
-</details>
 -->
-
 
 <!--
 **neo-ran/neo-ran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
