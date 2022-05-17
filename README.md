@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Python & Web Development.
 - 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
 
------------
-
 **Overview:**
 <details>
 <summary>Progress Tracker</summary>
