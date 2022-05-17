@@ -2,16 +2,18 @@
 
 - 🔭 I’m currently working on populating my profile with projects.
 - 🌱 I’m currently learning Python & Web Development.
-- 👯 I’m looking to collaborate with people that have similar interests (newbies like me!).
+- 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
 
-**Highlights**:
+-----------
+
+**Overview:**
 <details>
 <summary>Progress Tracker</summary>
 <br>
 
 This section documents my accomplishments and progress across selected MOOC platforms.
 
-Platforms and sites used:
+Platforms/sites used:
 - [**Coursera**](https://coursera.org/)
 - [**edX**](https://edx.org/)
 
@@ -19,9 +21,9 @@ Platforms and sites used:
 ## Coursera
 > Link: [Profile](https://www.coursera.org/user/06d87c718869ff93519589521158e269)
 
-**Completed courses**:
-|  Course    |  Offered By | Field | Course Certificate |
-| :--------: | :---------: | :---: | :----------------: |
+**Courses completed**:
+|  Course    |  Offered By | Field | Certificate |
+| :--------: | :---------: | :---: | :---------: |
 | [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) | `University of Toronto` | Software Development | [Link](https://coursera.org/share/928ff38615abc20adae8a8909a0112e8) |
 | [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design) | `Georgia Institute of Technology` | Design and Product | [Link](https://coursera.org/share/3f22a122b1cc43354d7cdda950f157b4) |
 | [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) | `Deep Teaching Solutions` | Personal Development | - |
@@ -34,10 +36,10 @@ Platforms and sites used:
 ## edX
 > Link: [Profile](https://profile.edx.org/u/gja_ledesma)
 
-**Course(s) currently taking**:
-| Course | Offered By | Subject |
-| :----: | :--------: | :---: |
-| [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) [(alt)](https://cs50.harvard.edu/technology/2017/) | `Harvard University` | Computer Science |
+**Course(s) completed**:
+| Course | Offered By | Subject | Certificate |
+| :----: | :--------: | :-----: | :---------: |
+| [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) [(alt)](https://cs50.harvard.edu/technology/2017/) | `Harvard University` | Computer Science | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (Free CS50 Certificate) |
 
 **Course(s) pending**:
 | Course | Offered By | Subject | Starts on: |
@@ -60,7 +62,6 @@ Platforms and sites used:
 - <u>Project: Landing Page</u> (Flexbox)
     - [Code repository](https://github.com/neo-ran/landing-page)
     - [Live preview](https://neo-ran.github.io/landing-page/)
-
 </details>
 
 <!-- 
@@ -80,7 +81,11 @@ Projects:
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me:
+
+**📫 How to reach me:** <br><br> 
+![Discord](https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true)
+![gjaledesma@outlook.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
