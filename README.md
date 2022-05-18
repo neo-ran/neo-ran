@@ -7,15 +7,9 @@
 </p>
 
 **📫 Get in touch:**
-
-<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a>
-
-<a href="mailto:gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
-
-<a href="https://www.coursera.org/user/06d87c718869ff93519589521158e269" target="blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
-
-<a href="https://profile.edx.org/u/gja_ledesma" target="blank"><img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" /></a>
-
+<p>
+<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a> <a href="mailto:gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
+</p>
 
 <strong>Overview:</strong>
 <details>
