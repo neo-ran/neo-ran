@@ -8,7 +8,7 @@
 
 **📫 Get in touch:**
 <p>
-<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a> <a href="mailto:gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
+<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a> <a href="gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
 </p>
 
 <strong>Overview:</strong>
