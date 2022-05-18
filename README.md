@@ -6,15 +6,10 @@
 
 </p>
 
----
-
 <strong>📫 How to reach me:</strong>
 
 ![Discord](https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true)
 ![gjaledesma@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-
----
 
 <strong>Overview:</strong>
 <details>
