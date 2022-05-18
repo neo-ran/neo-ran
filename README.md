@@ -1,15 +1,21 @@
 <strong>Hi there 👋</strong>
 
 - 🔭 I’m currently working on populating my profile with projects.
-- 🌱 I’m currently learning Python & Web Development.
+- 🌱 I’m currently learning <strong>Python</strong> & <strong>Web Development.</strong>
 - 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
 
 </p>
 
-<strong>📫 How to reach me:</strong>
+**📫 Get in touch:**
 
-![Discord](https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true)
-![gjaledesma@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a>
+
+<a href="mailto:gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
+
+<a href="https://www.coursera.org/user/06d87c718869ff93519589521158e269" target="blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" /></a>
+
+<a href="https://profile.edx.org/u/gja_ledesma" target="blank"><img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" /></a>
+
 
 <strong>Overview:</strong>
 <details>
@@ -19,13 +25,11 @@
 This section documents my accomplishments and progress across selected MOOC platforms.
 
 Platforms/sites used:
-- [**Coursera**](https://coursera.org/)
-- [**edX**](https://edx.org/)
+- [**Coursera**](https://coursera.org/) ([Profile](https://www.coursera.org/user/06d87c718869ff93519589521158e269))
+- [**edX**](https://edx.org/) ([Profile](https://profile.edx.org/u/gja_ledesma))
 
 <!-- Coursera section -->
 ## Coursera
-> Link: [Profile](https://www.coursera.org/user/06d87c718869ff93519589521158e269)
-
 **Courses completed**:
 |  Course    |  Offered By | Field | Certificate |
 | :--------: | :---------: | :---: | :---------: |
@@ -44,8 +48,6 @@ Platforms/sites used:
 
 <!-- edX section -->
 ## edX
-> Link: [Profile](https://profile.edx.org/u/gja_ledesma)
-
 **Course(s) completed**:
 | Course | Offered By | Subject | Certificate |
 | :----: | :--------: | :-----: | :---------: |
@@ -73,6 +75,10 @@ Platforms/sites used:
     - [Code repository](https://github.com/neo-ran/landing-page)
     - [Live preview](https://neo-ran.github.io/landing-page/)
 </details>
+
+**Stats:** 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-ran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/neo-ran/github-readme-stats)
 
 <!-- 
 <details>
