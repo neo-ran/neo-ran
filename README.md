@@ -1,22 +1,11 @@
-<strong>Hi there 👋</strong>
+**Hi there 👋**
 
 - 🔭 I’m currently working on populating my profile with projects.
 - 🌱 I’m currently learning <strong>Python</strong> & <strong>Web Development.</strong>
 - 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
+- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com) | [Discord 💬](discordapp.com/users/293195887952396289)
 
-</p>
-
----
-
-<p align="center"><strong>📫 Get in touch:</strong></p>
-
-<p align="center">
-<a href="https://discord.com/" target="blank"><img src="https://dcbadge.vercel.app/api/shield/293195887952396289?compact=true" /></a> <a href="mailto:gjaledesma@outlook.com" target="blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/" /></a>
-</p>
-
----
-
-<strong>Overview:</strong>
+**Highlights:**
 <details>
 <summary>Progress Tracker</summary>
 <br>
@@ -40,10 +29,7 @@ Platforms/sites used:
 | [A Tour of Google Cloud Hands-on Labs](https://www.coursera.org/projects/googlecloud-a-tour-of-google-cloud-hands-on-labs-5s3nf) | `Google Cloud Training` | Cloud Computing | [Link](https://www.coursera.org/account/accomplishments/verify/TR87BYGHBLZ6) |
 | [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | `University of Michigan` | Software Development | [Link](https://www.coursera.org/account/accomplishments/records/4PAFTEFVK34G) |
 | [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) | `Google` | Support and Operations | [Link](https://www.coursera.org/account/accomplishments/verify/LPYVRPWTKN9U)
-
-<!--
-| [HTML, CSS, and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?) | `Johns Hopkins University` | Mobile and Web Development | [Link]()
--->
+| [HTML, CSS, and JavaScript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?) | `Johns Hopkins University` | Mobile and Web Development | [Link](https://www.coursera.org/account/accomplishments/records/7CV64LGXGX6E)
 
 <!-- edX section -->
 ## edX
@@ -78,35 +64,3 @@ Platforms/sites used:
 **Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-ran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/neo-ran/github-readme-stats)
-
-<!-- 
-<details>
-<summary>bucketlist-winget</summary>
-
-
-</details>
--->
-
-<!-- 
-## 
-(Banners with Coursera, edx, mail, etc.)
-
-## Highlights:
-Certificates:
-(PYFE, LTP, etc.)
-
-Projects:
-(batch script, etc.)
--->
-
-<!--
-**neo-ran/neo-ran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-
-
-
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
