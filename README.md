@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on populating my profile with projects.
 - 🌱 I’m currently learning <strong>Python</strong> & <strong>Web Development.</strong>
 - 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
-- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com) | [Discord 💬](discordapp.com/users/293195887952396289)
+- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com) | [Discord 💬](https://discord.gg/293195887952396289)
 
 **Highlights:**
 <details>
