@@ -14,11 +14,12 @@
 <hr>
 
 <!-- Contacts -->
+<p align="center"><strong>Mail 📫</strong></p>
 <div align="center">
-<p><strong>Mail 📫</strong></p>
 <a href="mailto:gjaledesma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="mailto:gjaledesma@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
-<div align="center">
 <br>
-<p><strong>MOOCs 📚</strong></p>
+
+<p align="center"><strong>MOOCs 📚</strong></p>
+<div align="center">
 <a href="https://www.coursera.org/user/06d87c718869ff93519589521158e269"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a> <a href="https://profile.edx.org/u/gja_ledesma"><img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white">
