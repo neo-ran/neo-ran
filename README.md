@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on populating my profile with projects.
 - 🌱 I’m currently learning **Python** & **Web Development**.
-- 👯 I’m looking to collaborate with people (newbies like me!) that have similar interests.
-- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com) | [Discord 💬](https://discord.gg/293195887952396289) 
+- 👯 I’m looking to collaborate with people having similar interests.
+- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com)
 
 **Highlights:**
 <details>
@@ -27,7 +27,7 @@
 | Course | Offered By | Certificate |
 | :----: | :--------: | :---------: |
 | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) | `Harvard University` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (Free CS50 Certificate) |
-| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | N/A (Course starts on: June 1st, 2022) |
+| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | N/A (Course started: June 1st, 2022) |
 
 </details>
 
