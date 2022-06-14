@@ -44,11 +44,11 @@
     - [Code repository](https://github.com/neo-ran/landing-page)
     - [Live preview](https://neo-ran.github.io/landing-page/)
 
-<!--
 - Project: Rock Paper Scissors (JavaScript)
-    - [Code repository]()
-    - [Live preview]()
+    - [Code repository](https://github.com/neo-ran/rock-paper-scissors)
+    - [Live preview](https://neo-ran.github.io/rock-paper-scissors)
 
+<!--
 - Project: Etch-a-Sketch (JavaScript)
     - [Code repository]()
     - [Live preview]()
