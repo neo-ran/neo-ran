@@ -1,13 +1,9 @@
 **Hi there 👋**
 
-- 🔭 I’m currently working on populating my profile with projects.
-- 🌱 I’m currently learning **Python** & **Web Development**.
-- 👯 I’m looking to collaborate with people having similar interests.
-- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com)
+- 🌱 I’m currently learning **Python**.
 
-**Highlights:**
 <details>
-<summary>MOOCs</summary>
+<summary>Highlights (MOOCs)</summary>
 
 <!-- Coursera section -->
 ## Coursera
@@ -31,6 +27,7 @@
 
 </details>
 
+<!-- 
 <details>
 <summary>The Odin Project</summary>
 <br>
@@ -48,7 +45,6 @@
     - [Code repository](https://github.com/neo-ran/rock-paper-scissors)
     - [Live preview](https://neo-ran.github.io/rock-paper-scissors)
 
-<!--
 - Project: Etch-a-Sketch (JavaScript)
     - [Code repository]()
     - [Live preview]()
@@ -56,9 +52,14 @@
 - Project: Calculator (JavaScript)
     - [Code repository]()
     - [Live preview]()
--->
+
+Intro:
+- 👯 I’m looking to collaborate with people having similar interests.
+- 🔭 I’m currently working on populating my profile with projects.
+- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com)
 </details>
 
 **Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-ran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
