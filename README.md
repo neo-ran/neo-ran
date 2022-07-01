@@ -1,9 +1,10 @@
 **Hi there 👋**
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I'm learning Python and Web Tech.
 
+**Highlights:**
 <details>
-<summary>Highlights (MOOCs)</summary>
+<summary>MOOCs</summary>
 
 <!-- Coursera section -->
 ## Coursera
@@ -23,11 +24,10 @@
 | Course | Offered By | Certificate |
 | :----: | :--------: | :---------: |
 | [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) | `Harvard University` | [Link](https://cs50.harvard.edu/certificates/2e7c47d4-69b5-42ad-9385-5f11475f6cab) (Free CS50 Certificate) |
-| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | N/A (Course started: June 1st, 2022) |
+| [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | `Massachusetts Institute of Technology` | N/A (Course is ongoing) |
 
 </details>
 
-<!-- 
 <details>
 <summary>The Odin Project</summary>
 <br>
@@ -45,6 +45,7 @@
     - [Code repository](https://github.com/neo-ran/rock-paper-scissors)
     - [Live preview](https://neo-ran.github.io/rock-paper-scissors)
 
+<!--
 - Project: Etch-a-Sketch (JavaScript)
     - [Code repository]()
     - [Live preview]()
@@ -52,14 +53,10 @@
 - Project: Calculator (JavaScript)
     - [Code repository]()
     - [Live preview]()
+-->
 
-Intro:
-- 👯 I’m looking to collaborate with people having similar interests.
-- 🔭 I’m currently working on populating my profile with projects.
-- 📫 Get in touch: [Outlook 📧](mailto:gjaledesma@outlook.com)
 </details>
 
-**Stats:** 
+**GitHub Stats:** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-ran&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
